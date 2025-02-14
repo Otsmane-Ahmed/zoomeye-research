@@ -31,7 +31,7 @@ Our research highlights the importance of securing IoT devices against internet 
 - Conduct periodic security assessments using tools like ZoomEye.
 
 **5. References**
-- ZoomEye. (2025). Retrieved from [https://www.zoomeye.org](https://www.zoomeye.org)
+- ZoomEye. (2025). Retrieved from [https://www.zoomeye.org](https://www.zoomeye.ai/)
 - Kolias, C., Kambourakis, G., Stavrou, A., & Voas, J. (2017). DDoS in the IoT: Mirai and other botnets. *Computer*, 50(7), 80-84.
 - Wang, P., Lu, W., & Ye, Z. (2018). An overview of security research in the Internet of Things. *Journal of Computer Science & Technology*, 33(4), 791-804.
 
